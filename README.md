@@ -20,10 +20,10 @@
 
   <!-- Quick Social Connect Hub -->
   <p>
-    <a href="https://linkedin.com/in/muhammad-narendra-hawari/" target="_blank">
+    <a href="https://www.linkedin.com/in/muhammad-narendra-hawarii/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Narendra_Hawari-000000?style=for-the-badge&logo=linkedin&logoColor=03d100&labelColor=0d1117" alt="LinkedIn" />
     </a>
-    <a href="mailto:email.kamu@example.com">
+    <a href="mailto:muhammadnarendrahawari@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact_Me-000000?style=for-the-badge&logo=gmail&logoColor=03d100&labelColor=0d1117" alt="Email" />
     </a>
     <a href="https://github.com/Narendra238">
