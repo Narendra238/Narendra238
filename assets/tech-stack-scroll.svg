@@ -1,0 +1,201 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="36" viewBox="0 0 800 36">
+  <defs>
+    <clipPath id="clip">
+      <rect width="800" height="36"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <g>
+      <animateTransform attributeName="transform" type="translate"
+        from="0,0" to="-1763,0" dur="28s" repeatCount="indefinite"/>
+
+      <!-- ===== SET 1 ===== -->
+      <!-- Python -->
+      <rect x="0" y="4" width="60" height="28" rx="14" fill="#000000"/>
+      <text x="30" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">PYTHON</text>
+
+      <!-- Java -->
+      <rect x="70" y="4" width="46" height="28" rx="14" fill="#000000"/>
+      <text x="93" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">JAVA</text>
+
+      <!-- PostgreSQL -->
+      <rect x="126" y="4" width="86" height="28" rx="14" fill="#000000"/>
+      <text x="169" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">POSTGRESQL</text>
+
+      <!-- MySQL -->
+      <rect x="222" y="4" width="53" height="28" rx="14" fill="#000000"/>
+      <text x="248" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">MYSQL</text>
+
+      <!-- C++ -->
+      <rect x="285" y="4" width="40" height="28" rx="14" fill="#000000"/>
+      <text x="305" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">C++</text>
+
+      <!-- HTML5 -->
+      <rect x="335" y="4" width="53" height="28" rx="14" fill="#000000"/>
+      <text x="361" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">HTML5</text>
+
+      <!-- CSS3 -->
+      <rect x="398" y="4" width="46" height="28" rx="14" fill="#000000"/>
+      <text x="421" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">CSS3</text>
+
+      <!-- JavaScript -->
+      <rect x="454" y="4" width="86" height="28" rx="14" fill="#000000"/>
+      <text x="497" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">JAVASCRIPT</text>
+
+      <!-- PHP -->
+      <rect x="550" y="4" width="40" height="28" rx="14" fill="#000000"/>
+      <text x="570" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">PHP</text>
+
+      <!-- Laravel -->
+      <rect x="600" y="4" width="66" height="28" rx="14" fill="#000000"/>
+      <text x="633" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">LARAVEL</text>
+
+      <!-- Pandas -->
+      <rect x="676" y="4" width="60" height="28" rx="14" fill="#000000"/>
+      <text x="706" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">PANDAS</text>
+
+      <!-- NumPy -->
+      <rect x="746" y="4" width="53" height="28" rx="14" fill="#000000"/>
+      <text x="772" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">NUMPY</text>
+
+      <!-- Scikit-Learn -->
+      <rect x="809" y="4" width="99" height="28" rx="14" fill="#000000"/>
+      <text x="858" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">SCIKIT-LEARN</text>
+
+      <!-- Matplotlib -->
+      <rect x="918" y="4" width="86" height="28" rx="14" fill="#000000"/>
+      <text x="961" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">MATPLOTLIB</text>
+
+      <!-- AI Studio -->
+      <rect x="1014" y="4" width="79" height="28" rx="14" fill="#000000"/>
+      <text x="1053" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">AI STUDIO</text>
+
+      <!-- VS Code -->
+      <rect x="1103" y="4" width="66" height="28" rx="14" fill="#000000"/>
+      <text x="1136" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">VS CODE</text>
+
+      <!-- Jupyter -->
+      <rect x="1179" y="4" width="66" height="28" rx="14" fill="#000000"/>
+      <text x="1212" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">JUPYTER</text>
+
+      <!-- Git -->
+      <rect x="1255" y="4" width="40" height="28" rx="14" fill="#000000"/>
+      <text x="1275" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">GIT</text>
+
+      <!-- GitHub -->
+      <rect x="1305" y="4" width="60" height="28" rx="14" fill="#000000"/>
+      <text x="1335" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">GITHUB</text>
+
+      <!-- Windows -->
+      <rect x="1375" y="4" width="66" height="28" rx="14" fill="#000000"/>
+      <text x="1408" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">WINDOWS</text>
+
+      <!-- Anaconda -->
+      <rect x="1451" y="4" width="73" height="28" rx="14" fill="#000000"/>
+      <text x="1487" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">ANACONDA</text>
+
+      <!-- RapidMiner -->
+      <rect x="1534" y="4" width="86" height="28" rx="14" fill="#000000"/>
+      <text x="1577" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">RAPIDMINER</text>
+
+      <!-- Colab -->
+      <rect x="1630" y="4" width="53" height="28" rx="14" fill="#000000"/>
+      <text x="1656" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">COLAB</text>
+
+      <!-- ===== SET 2 (seamless loop duplicate) ===== -->
+      <!-- Python -->
+      <rect x="1763" y="4" width="60" height="28" rx="14" fill="#000000"/>
+      <text x="1793" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">PYTHON</text>
+
+      <!-- Java -->
+      <rect x="1833" y="4" width="46" height="28" rx="14" fill="#000000"/>
+      <text x="1856" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">JAVA</text>
+
+      <!-- PostgreSQL -->
+      <rect x="1889" y="4" width="86" height="28" rx="14" fill="#000000"/>
+      <text x="1932" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">POSTGRESQL</text>
+
+      <!-- MySQL -->
+      <rect x="1985" y="4" width="53" height="28" rx="14" fill="#000000"/>
+      <text x="2011" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">MYSQL</text>
+
+      <!-- C++ -->
+      <rect x="2048" y="4" width="40" height="28" rx="14" fill="#000000"/>
+      <text x="2068" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">C++</text>
+
+      <!-- HTML5 -->
+      <rect x="2098" y="4" width="53" height="28" rx="14" fill="#000000"/>
+      <text x="2124" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">HTML5</text>
+
+      <!-- CSS3 -->
+      <rect x="2161" y="4" width="46" height="28" rx="14" fill="#000000"/>
+      <text x="2184" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">CSS3</text>
+
+      <!-- JavaScript -->
+      <rect x="2217" y="4" width="86" height="28" rx="14" fill="#000000"/>
+      <text x="2260" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">JAVASCRIPT</text>
+
+      <!-- PHP -->
+      <rect x="2313" y="4" width="40" height="28" rx="14" fill="#000000"/>
+      <text x="2333" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">PHP</text>
+
+      <!-- Laravel -->
+      <rect x="2363" y="4" width="66" height="28" rx="14" fill="#000000"/>
+      <text x="2396" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">LARAVEL</text>
+
+      <!-- Pandas -->
+      <rect x="2439" y="4" width="60" height="28" rx="14" fill="#000000"/>
+      <text x="2469" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">PANDAS</text>
+
+      <!-- NumPy -->
+      <rect x="2509" y="4" width="53" height="28" rx="14" fill="#000000"/>
+      <text x="2535" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">NUMPY</text>
+
+      <!-- Scikit-Learn -->
+      <rect x="2572" y="4" width="99" height="28" rx="14" fill="#000000"/>
+      <text x="2621" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">SCIKIT-LEARN</text>
+
+      <!-- Matplotlib -->
+      <rect x="2681" y="4" width="86" height="28" rx="14" fill="#000000"/>
+      <text x="2724" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">MATPLOTLIB</text>
+
+      <!-- AI Studio -->
+      <rect x="2777" y="4" width="79" height="28" rx="14" fill="#000000"/>
+      <text x="2816" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">AI STUDIO</text>
+
+      <!-- VS Code -->
+      <rect x="2866" y="4" width="66" height="28" rx="14" fill="#000000"/>
+      <text x="2899" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">VS CODE</text>
+
+      <!-- Jupyter -->
+      <rect x="2942" y="4" width="66" height="28" rx="14" fill="#000000"/>
+      <text x="2975" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">JUPYTER</text>
+
+      <!-- Git -->
+      <rect x="3018" y="4" width="40" height="28" rx="14" fill="#000000"/>
+      <text x="3038" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">GIT</text>
+
+      <!-- GitHub -->
+      <rect x="3068" y="4" width="60" height="28" rx="14" fill="#000000"/>
+      <text x="3098" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">GITHUB</text>
+
+      <!-- Windows -->
+      <rect x="3138" y="4" width="66" height="28" rx="14" fill="#000000"/>
+      <text x="3171" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">WINDOWS</text>
+
+      <!-- Anaconda -->
+      <rect x="3214" y="4" width="73" height="28" rx="14" fill="#000000"/>
+      <text x="3250" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">ANACONDA</text>
+
+      <!-- RapidMiner -->
+      <rect x="3297" y="4" width="86" height="28" rx="14" fill="#000000"/>
+      <text x="3340" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">RAPIDMINER</text>
+
+      <!-- Colab -->
+      <rect x="3393" y="4" width="53" height="28" rx="14" fill="#000000"/>
+      <text x="3419" y="22" text-anchor="middle" fill="#03d100" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">COLAB</text>
+
+    </g>
+  </g>
+</svg>
