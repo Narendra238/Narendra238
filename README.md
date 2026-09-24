@@ -114,50 +114,6 @@ I am an **Informatics and Data Science** student at **Universitas Ahmad Dahlan, 
 
 ---
 
-## 🚀 Featured Projects & Explorations
-
-| Project | Domain | Tech Stack | Status | Description |
-| :--- | :--- | :--- | :---: | :--- |
-| **[Smart Transit Routing](https://github.com/Narendra238)** | Intelligent Transportation | `Python` `NetworkX` `OSM` | `In Progress` | Algorithmic network routing model simulating optimal multi-node transit dispatching and transfer efficiency. |
-| **[Urban Traffic Flow Analysis](https://github.com/Narendra238)** | Data Science & ML | `Python` `Pandas` `Scikit-Learn` | `Research` | Exploratory & predictive analysis on urban congestion bottlenecks, flow velocity, and peak-hour patterns. |
-| **[Algorithmic Simulation Lab](https://github.com/Narendra238)** | Core Computer Science | `Java` `OOP` `Data Structures` | `Active` | Clean-architecture implementations of core computational algorithms and data structures. |
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <table border="0" style="border: none;">
-    <tr style="border: none;">
-      <td style="border: none;" align="center">
-        <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Narendra238&show_icons=true&theme=dark&bg_color=000000&text_color=ebebeb&icon_color=03d100&title_color=03d100&border_color=333333&count_private=true&include_all_commits=true" alt="Narendra's GitHub Stats" />
-      </td>
-      <td style="border: none;" align="center">
-        <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narendra238&layout=compact&theme=dark&bg_color=000000&text_color=ebebeb&title_color=03d100&border_color=333333" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Narendra238&theme=dark&background=000000&border=333333&stroke=03d100&ring=03d100&fire=03d100&currStreakLabel=03d100&sideLabels=ebebeb&dates=b0b0b0" alt="GitHub Streak" />
-</div>
-
----
-
-## 🐍 Contribution Graph Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Narendra238/Narendra238/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Narendra238/Narendra238/output/github-contribution-grid-snake.svg">
-    <img alt="Narendra's Contribution Snake Animation" src="https://raw.githubusercontent.com/Narendra238/Narendra238/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
-
----
-
 <div align="center">
   <p>
     <b>Let's build intelligent mobility systems and impactful data solutions together! 🚀</b>
