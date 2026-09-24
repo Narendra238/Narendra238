@@ -5,7 +5,7 @@
   <h1>Muhammad Narendra Hawari</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=03D100&center=true&vCenter=true&multiline=false&width=450&height=45&lines=Run;Transport;Data+Science" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=03D100&center=true&vCenter=true&multiline=false&width=550&height=45&lines=Bachelor+of+Informatics;Run;Transport;Data+Science" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -21,7 +21,7 @@
   <!-- Quick Social Connect Hub -->
   <p>
     <a href="https://www.linkedin.com/in/muhammad-narendra-hawarii/">
-      <img src="https://img.shields.io/badge/LinkedIn-muhammad-narendra-hawarii-000000?style=for-the-badge&logo=linkedin&logoColor=03d100&labelColor=0d1117" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Narendra_Hawari-000000?style=for-the-badge&logo=linkedin&logoColor=03d100&labelColor=0d1117" alt="LinkedIn" />
     </a>
     <a href="mailto:muhammadnarendrahawari@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact_Me-000000?style=for-the-badge&logo=gmail&logoColor=03d100&labelColor=0d1117" alt="Email" />
