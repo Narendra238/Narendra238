@@ -2,10 +2,10 @@
   <a name="top"></a>
 
   <!-- Animated Header / Typing SVG -->
-  <h1>Hi there, I'm Muhammad Narendra Hawari 👋</h1>
+  <h1>Muhammad Narendra Hawari</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=03D100&center=true&vCenter=true&multiline=false&width=650&height=45&lines=Informatics+%26+Data+Science+Student;Passionate+about+Transportation+%26+Smart+Mobility;Optimizing+Transit+Systems+with+Data-Driven+Insights;Python+%E2%80%A2+Machine+Learning+%E2%80%A2+Spatial+Analytics" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=03D100&center=true&vCenter=true&multiline=false&width=450&height=45&lines=Run;Transport;Data+Science" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -15,7 +15,7 @@
     <img src="https://komarev.com/ghpvc/?username=Narendra238&label=PROFILE+VIEWS&color=03d100&style=flat-square" alt="Profile Views" />
     <img src="https://img.shields.io/badge/Focus-Transportation_Data_Science-000000?style=flat-square&logo=target&logoColor=03d100" alt="Focus" />
     <img src="https://img.shields.io/badge/Location-Yogyakarta%2C_Indonesia-000000?style=flat-square&logo=googlemaps&logoColor=03d100" alt="Location" />
-    <img src="https://img.shields.io/badge/Status-Actively_Innovating-000000?style=flat-square&logo=githubactions&logoColor=03d100" alt="Status" />
+    <img src="https://img.shields.io/badge/Status-Building_%26_Researching-000000?style=flat-square&logo=atom&logoColor=03d100" alt="Status" />
   </p>
 
   <!-- Quick Social Connect Hub -->
