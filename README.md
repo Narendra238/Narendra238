@@ -5,7 +5,7 @@
   <h1>Muhammad Narendra Hawari</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=03D100&center=true&vCenter=true&multiline=false&width=600&height=45&lines=Runner;Informatics+%40+UAD;Data+Science+%26+Machine+Learning;LLMs+%26+Generative+AI;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=03D100&center=true&vCenter=true&multiline=false&width=600&height=45&lines=Runner;Informatics+UAD;Data+Science+%26+Machine+Learning;LLMs+%26+Generative+AI;" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -31,7 +31,7 @@
     </a>
   </p>
 
-  <sub><i>Bridging Data Science, Machine Learning, and Large Language Models to solve real-world problems and optimize operational systems.</i></sub>
+  <sub><i>Running model ning server, running sikil ning aspal, running urip nganggo kopi.</i></sub>
 
 </div>
 
@@ -39,14 +39,14 @@
 
 ## About Me
 
-I am an **Informatics and Data Science** undergraduate at **Universitas Ahmad Dahlan (UAD)**, with hands-on experience in **Machine Learning, Data Mining, Mobile Development, and Generative AI**.
+I am an **Informatics and Data Science** undergraduate at **Universitas Ahmad Dahlan (UAD)**, with hands-on experience in **Machine Learning, Data Mining, Natural Language Processing, Mobile Development, and Generative AI**.
 
 I am passionate about harnessing data insights and artificial intelligence to solve practical, real-world problems — particularly within **operational optimization, business digitalization, and intelligent transportation systems**. Through solid analytical thinking and algorithmic problem-solving, I strive to build sustainable, high-impact technological solutions.
 
-- **Academic Foundation:** S1 Informatika @ Universitas Ahmad Dahlan (Sep 2022 – Jun 2026)
+- **Academic Foundation:** S1 Informatika Universitas Ahmad Dahlan (Sep 2022 – Jun 2026)
 - **Specialization:** Data Mining, Machine Learning, K-Means Clustering, and Large Language Models (LLMs)
 - **Teaching Experience:** 6-term Laboratory Assistant at Informatika UAD (Machine Learning, Data Mining, Mobile Android, Statistics, Algorithms, Fundamentals of Programming)
-- **Certified Achievement:** Awarded *The Most Active Student* at MSIB Kampus Merdeka Batch 7 — Celerates (Data Science Basics, Score: **93.91 / 100.00**)
+- **Certified Achievement:** Awarded *The Most Active Student* at MSIB Kampus Merdeka Batch 7 — Celerates (Data Science Basics)
 - **Applied Interest:** Operational Efficiency, Intelligent Transportation & Mobility, and Business Process Digitalization
 - **Ask Me About:** Python, Machine Learning Pipelines, K-Means & LLM Integration, Dataset Preprocessing, or Android Development
 
@@ -87,16 +87,19 @@ I am passionate about harnessing data insights and artificial intelligence to so
   - **Student Employment** — *Magister Manajemen Pendidikan FKIP UAD (Sep 2024 – Sep 2025)*
     - Managed social media publication, drafted press releases, and compiled meeting reports & documentation.
   - **Data Science Studi Independent** — *Celerates / MSIB Batch 7 Kampus Merdeka (Sep 2024 – Dec 2024)*
-    - Finished with distinction (93.91/100), honored as *The Most Active Student*, and completed training in Data Processing & Generative AI.
+    - Finished with distinction, honored as *The Most Active Student*, and completed training in Data Processing & Generative AI.
+  - **Intern Data Analyst** — *Balai Diklat Industri Yogyakarta (Agu 2026 – Feb 2027)*
+    - Handling Website Sidia Kemenperin and Data Analysis
+    - Making Data Visualization use Laravel with postgresql
 </details>
 
 <details>
   <summary><b>Leadership & Organizational Impact</b></summary>
   <br/>
 
-  - **Ketua Komisi Pemilihan Umum (KPUM)** — *Informatika UAD (Nov 2023 – Feb 2024)*
+  - **Leader Komisi Pemilihan Umum (KPUM)** — *Informatika UAD (Nov 2023 – Feb 2024)*
     - Led and presided over the student election for the Informatics Student Association, organized candidate debates, and maintained institutional governance.
-  - **Ketua Kelompok KKN Reguler 145** — *Girikerto, Turi, Sleman, DIY (May 2025 – Sep 2025)*
+  - **Leader Group KKN Reguler 145** — *Girikerto, Turi, Sleman, DIY (May 2025 – Sep 2025)*
     - Spearheaded community empowerment programs, coordinated with village leadership, and organized developmental initiatives at Bumi Perkemahan Lembah Merapi & partner schools.
   - **Fasilitator & Pemegang Hak Cipta (HKI)** — *PkM Dakwah Digital (2025)*
     - Design facilitator for community workshops using Canva; registered official Intellectual Property (HKI) for educational video production.
