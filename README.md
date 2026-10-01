@@ -160,7 +160,7 @@ I am passionate about harnessing data insights and artificial intelligence to so
 
 <div align="center">
   <p>
-    <b>Let's collaborate on data-driven intelligence and impactful engineering solutions! 🚀</b>
+    <b>Let's collaborate !</b>
   </p>
 
   <a href="#top">
