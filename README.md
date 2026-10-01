@@ -68,9 +68,6 @@ I am passionate about harnessing data insights and artificial intelligence to so
   - **Customer Segmentation with K-Means & Gemini LLM — Celerates MSIB 7**
     * *Integrating K-Means and Gemini LLM for Coffee Shop Customer Segmentation*
     * Implemented unsupervised machine learning (K-Means) on transactional data and integrated Google Gemini LLM to automatically generate descriptive persona profiles and personalized marketing action plans.
-
-  - **Android Mobile Application Development — UAD Informatics Laboratory**
-    * Mentored students and built Android mobile applications focusing on native architecture, UI implementation, and client-side data handling.
 </details>
 
 <details>
@@ -147,6 +144,7 @@ I am passionate about harnessing data insights and artificial intelligence to so
 ### Environments & Developer Tools
 <p>
   <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=03d100" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Antigravity_IDE-000000?style=for-the-badge&logo=googlegemini&logoColor=03d100" alt="Antigravity IDE" />
   <img src="https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=03d100" alt="Android Studio" />
   <img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=03d100" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Google_Colab-000000?style=for-the-badge&logo=googlecolab&logoColor=03d100" alt="Colab" />
